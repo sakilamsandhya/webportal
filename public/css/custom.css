@@ -1,0 +1,13 @@
+/**
+ *
+ * Apply Here your Custom CSS
+ *
+*/
+
+body {
+	
+}
+.modal-backdrop.in{
+   opacity: 0;
+   z-index:0;
+}
